@@ -1,3 +1,6 @@
+# Authon Dahni
+# Comunity : Genius Code Party
+# Github : Masdahni1337
 from typing import Text
 import py_cui
 import os
