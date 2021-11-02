@@ -12,9 +12,9 @@ from py_cui.widgets import TextBox
 from pygame import mixer
 
 class baseData:
-    pathMusik = "D:\Backup\Musik\Luar"
-    pathList = "E:\Elite Spirit\Audio\Instrumental"
-    ngulang = False
+    pathMusik = "D:\Backup\Musik\Luar" #change with your path music
+    pathList = "E:\Elite Spirit\Audio\Instrumental" #change with your path playlist
+    ngulang = False # if you wanna loop, just change False to True
 
 def listmusik():
     nSong = []
