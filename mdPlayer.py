@@ -1,4 +1,4 @@
-# Authon Dahni
+# Author Dahni
 # Comunity : Genius Code Party
 # Github : Masdahni1337
 from typing import Text
