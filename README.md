@@ -1,6 +1,6 @@
 # mdPlayer
 ```
-Suppor Python 3
+Support Python 3
 ```
 Requirement Library
 ```
