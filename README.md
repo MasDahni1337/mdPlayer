@@ -1,4 +1,7 @@
 # mdPlayer
+```
+Suppor Python 3
+```
 Requirement Library
 ```
 pip install py_cui
