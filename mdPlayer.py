@@ -10,8 +10,6 @@ import time
 from py_cui import widget_set
 from py_cui.widgets import TextBox
 from pygame import mixer
-import pyaudio
-import numpy as np
 
 class baseData:
     pathMusik = "D:\Backup\Musik\Luar"
