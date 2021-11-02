@@ -12,4 +12,4 @@ if you use Linux, install pulseaudio first
 
 !['demo-1'](img/1.png)
 
-this tools still on development stage
+this tool still on development stage
